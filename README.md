@@ -1,4 +1,4 @@
-# Swift100-Project1
+# # Swift100-Project1 # Tap or Hold Counter
 
 ` Date: Mar. 22, 2018 / Time: 2 hours `
 
